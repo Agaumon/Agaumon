@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Andrew
 
-<!--
-**Agaumon/Agaumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack JavaScript Developer with a passion for building clean, practical web apps. I recently earned my Full Stack Software Development certificate and I'm currently focused on building real-world projects, learning advanced backend patterns and new programming languages such as Python, and growing as a remote developer.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects I'm Proud Of
+While I’m working on new, more polished apps, you can check out some of my past work here: (https://github.com/Agaumon?tab=repositories). I'm always improving and learning.
+
+### 🚀 Goals
+- Build and deploy 3 solid full-stack apps
+- Contribute to open source projects
+- Land my first remote junior developer job
+
+### 📫 How to Reach Me
+- Email: andrew.delarosa.413@gmail.com
+- LinkedIn: www.linkedin.com/in/adelarosa413
+
+Thanks for stopping by!
